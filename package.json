@@ -1,0 +1,23 @@
+{
+  "name": "pusherpoll",
+  "version": "1.0.0",
+  "description": "Real time polling app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qkleinfelter/pusherpoll.git"
+  },
+  "author": "Quinn Kleinfelter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qkleinfelter/pusherpoll/issues"
+  },
+  "homepage": "https://github.com/qkleinfelter/pusherpoll#readme",
+  "devDependencies": {
+    "nodemon": "^1.14.12"
+  }
+}
